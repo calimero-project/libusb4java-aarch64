@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.calimero"
-version = "1.3.1-SNAPSHOT"
+version = "1.3.1"
 val pkg = "org/usb4java"
 
 java.toolchain.languageVersion.set(JavaLanguageVersion.of(17))
